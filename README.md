@@ -18,7 +18,7 @@ Following performance metrics must be met:
 
 ### Open and transparent
 
-Fareness is lifeblood of finance, to build an inclusive finance world, following targets must be met:
+Fareness is lifeblood of finance. To build an inclusive finance world, following targets must be met:
 1. anyone can be a protocol user
 2. open governance through Decentralized Autonomous Governance (DAO)
 3. all transaction and settlement data are onchain, visible and traceable
