@@ -11,8 +11,7 @@
   - [Secure while easy-to-use](#secure-while-easy-to-use)
   - [Affordable](#affordable)
 - [What is FuFi](#what-is-fuFi)
-  - [4.1 The BNB Greenfield Blockchain](#41-the-bnb-greenfield-blockchain)
-  - [4.2 The Storage Providers, SPs](#42
+- [FuFi Protocols](#fufi-protocols)
   
 ## Why FuFi?
 
