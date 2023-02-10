@@ -4,20 +4,14 @@
 
 ## Table of Content
 
-- [FuFi - Future Finance Protocols](#fufi---future-finance-protocols)
-  - [Table of Content](#table-of-content)
-  - [Why FuFi?](#why-fufi)
-  - [Design Principals](#design-principals)
-    - [Performance oriented](#performance-oriented)
-    - [Open and transparent](#open-and-transparent)
-    - [Secure while easy-to-use](#secure-while-easy-to-use)
-    - [Affordable](#affordable)
-  - [What is FuFi](#what-is-fufi)
-  - [FuFi Protocol Ecosystem](#fufi-protocol-ecosystem)
-  - [FuFi Protocols](#fufi-protocols)
-  - [FuFi Protocols](#fufi-protocols-1)
-  - [Contribute](#contribute)
-  - [License](#license)
+- [Why FuFi?](#why-fufi)
+- [Design Principals](#design-principals)
+  - [Performance oriented](#performance-oriented)
+  - [Open and transparent](#open-and-transparent)
+  - [Secure while easy-to-use](#secure-while-easy-to-use)
+  - [Affordable](#affordable)
+- [What is FuFi](#what-is-fuFi)
+- [FuFi Protocols](#fufi-protocols)
   
 ## Why FuFi?
 
