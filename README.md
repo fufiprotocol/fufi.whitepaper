@@ -14,27 +14,30 @@ Following performance metrics must be met:
 
 1. second-level transaction onchain speed (thus low-latency for price updates etc)
 2. second-level transaction confirmation speed
-3. high-throughput: 5000 TPS with single network shard
+3. high-throughput: 5000 TPS with single network shard and extensible through adding network shards
 
 ### Open and transparent
 
-Fareness is key to finance, to build an inclusive finance world, following targets must be met:
+Fareness is lifeblood of finance, to build an inclusive finance world, following targets must be met:
 1. anyone can be a protocol user
 2. open governance through Decentralized Autonomous Governance (DAO)
 3. all transaction and settlement data are onchain, visible and traceable
+4. protocols are verifiable against their technical papers
 
 ### Secure while easy-to-use
 
 It's paramount important to achieve security as well as usability for end users
 
-1. reliable and trustworthy underlying network
-2. No front-running is allowed
-3. No asset can be forged by any party unless specified by the whitepaper
+1. Protocols must be designed to achieve simplicity in adoption and usage
+2. Reliable and trustworthy underlying network(s) will be adopted to support FuFi protocols
+3. No front-running is allowed
+4. No asset can be forged by any party unless specified by the corresponding whitepaper
 
-### Low-cost to play
+### Affordable
 
-It's determined that gas model as adopted in majority blockchain technologies are not suitable for doing 
+It's determined that the gas model as adopted in majority blockchain technologies are not suitable for DeFi which usually invovles large volume of transactions and hence the gas cost that would daunt a lot of investors or traders. Meanwhile unfair advantages in trading could be done by leveraging or manipulating gas prices.
 
+With the afforability, it achieves financial inclusiveness for majority users from around the world.
 
 ## What is FuFi
 
