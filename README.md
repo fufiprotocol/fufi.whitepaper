@@ -10,9 +10,8 @@
     - [Secure while easy-to-use](#secure-while-easy-to-use)
     - [Affordable](#affordable)
   - [What is FuFi](#what-is-fufi)
-  - [FuFi Protocol Ecosystem](#fufi-protocol-ecosystem)
-  - [FuFi Protocols](#fufi-protocols)
-  - [FuFi Protocols](#fufi-protocols-1)
+    - [FuFi Protocol Ecosystem](#fufi-protocol-ecosystem)
+    - [FuFi Protocols](#fufi-protocols)
   - [Contribute](#contribute)
   - [License](#license)
   
