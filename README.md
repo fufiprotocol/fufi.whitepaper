@@ -3,9 +3,6 @@
 # FuFi - Future Finance Protocols
 
 ## Table of Content
-
-- [FuFi - Future Finance Protocols](#fufi---future-finance-protocols)
-  - [Table of Content](#table-of-content)
   - [Why FuFi?](#why-fufi)
   - [Design Principals](#design-principals)
     - [Performance oriented](#performance-oriented)
