@@ -4,14 +4,20 @@
 
 ## Table of Content
 
-- [Why FuFi?](#why-fufi)
-- [Design Principals](#design-principals)
-  - [Performance oriented](#performance-oriented)
-  - [Open and transparent](#open-and-transparent)
-  - [Secure while easy-to-use](#secure-while-easy-to-use)
-  - [Affordable](#affordable)
-- [What is FuFi](#what-is-fuFi)
-- [FuFi Protocols](#fufi-protocols)
+- [FuFi - Future Finance Protocols](#fufi---future-finance-protocols)
+  - [Table of Content](#table-of-content)
+  - [Why FuFi?](#why-fufi)
+  - [Design Principals](#design-principals)
+    - [Performance oriented](#performance-oriented)
+    - [Open and transparent](#open-and-transparent)
+    - [Secure while easy-to-use](#secure-while-easy-to-use)
+    - [Affordable](#affordable)
+  - [What is FuFi](#what-is-fufi)
+  - [FuFi Protocol Ecosystem](#fufi-protocol-ecosystem)
+  - [FuFi Protocols](#fufi-protocols)
+  - [FuFi Protocols](#fufi-protocols-1)
+  - [Contribute](#contribute)
+  - [License](#license)
   
 ## Why FuFi?
 
@@ -54,11 +60,19 @@ With the afforability, it achieves financial inclusiveness for majority users fr
 
 ## What is FuFi
 
-FuFi is a suite of decentralized finance protocols determined to be the cornerstones of the future finance that runs entirely on a blockchain-based value system. In a quick summary, FuFi supports at least the following protocols: 
+## FuFi Protocol Ecosystem
+FuFi is a suite of decentralized finance protocols determined to be the cornerstones of the future finance that runs entirely on a blockchain-based value system. 
+
+<div align="center"><img src="./assets/FuFi_Arch.png" height="80%" width="80%"></div>
+<div align="center"><i>Figure 1.1: FuFi Protocol Ecosystem</i></div>
+
+## FuFi Protocols
+
+In order to provide a  the key financial components, FuFi supports at least the following protocols: 
   - order-book based spot trading
   - order-book based deratitive trading
   - stablecoin
- 
+
 FuFi runs ontop of certain public blockchains that can be customized to meet both security and performance targets of FuFi protocols. In addition, following technologies are also employed/developed to achieve the ultimate goals of FuFi protocols:
    - a cross-chain bridge to allow mirrowing digital assets back and forth from other public blockchains
    - a set of decentralized oracles to allow injecting external world information onto the FuFi protocols that reside in blockchain 
