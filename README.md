@@ -10,8 +10,10 @@
   - [Open and transparent](#open-and-transparent)
   - [Secure while easy-to-use](#secure-while-easy-to-use)
   - [Affordable](#affordable)
-- [What is FuFi](#what-is-fuFi)
+- [What is FuFi](#what-is-fufi)
 - [FuFi Protocols](#fufi-protocols)
+- [Contribute](#contribute)
+- [License](#license)
   
 ## Why FuFi?
 
