@@ -1,5 +1,19 @@
-# fufi.whitepaper
-   
+`fufi.whitepaper`
+
+# FuFi - Future Finance Protocols
+
+## Table of Content
+
+- [Why FuFi?](#why-fufi)
+- [Design Principals](#design-principals)
+  - [Performance oriented](#performance-oriented)
+  - [Open and transparent](#open-and-transparent)
+  - [Secure while easy-to-use](#secure-while-easy-to-use)
+  - [Affordable](#affordable)
+- [What is FuFi](#what-is-fuFi)
+  - [4.1 The BNB Greenfield Blockchain](#41-the-bnb-greenfield-blockchain)
+  - [4.2 The Storage Providers, SPs](#42
+  
 ## Why FuFi?
 
 There are so many decentralized finance (DeFi) protocols out there, running ontop of various networks and the total value locked (TVL) has reached over $2 billion globally. The largest network by DeFi TVL is Ethereum, accounting for almost half of the total volume worldwide. However, due to several inherent technology limitations of underlying networks like Ethereum or other EVM cloned blockchains, DeFi protocols' complete potentials have not been fully unleashed and their user experiences tend to be suboptimal to those in traditional finance. 
@@ -50,6 +64,32 @@ FuFi runs ontop of certain public blockchains that can be customized to meet bot
    - a cross-chain bridge to allow mirrowing digital assets back and forth from other public blockchains
    - a set of decentralized oracles to allow injecting external world information onto the FuFi protocols that reside in blockchain 
 
-## FuFi Whitepaper
-   - English version: [FuFi Protocls Whitepaper](https://github.com/fufiprotocol/fufi.whitepaper/blob/main/fufi.whitepaper-en.md) 
-   - Chinese version: [FuFi协议白皮书](https://github.com/fufiprotocol/fufi.whitepaper/blob/main/fufi.whitepaper-cn.md)
+## FuFi Protocols
+   - FuFi Spot Trading DEX: [FuFi Spot Trading DEX Whitepaper](https://github.com/fufiprotocol/fufi.whitepaper/blob/main/fufi-dex-spot.md) 
+   - FuFi Perptual Swap Trading DEX: [FuFi Perptual Swap DEX Whitepaper](https://github.com/fufiprotocol/fufi.whitepaper/blob/main/fufi-dex-perpswap.md)
+   
+   
+## Contribute
+
+1. Clone the repo and checkout a branch
+
+  ```shell
+  git clone https://github.com/fufiprotocol/fufi.whitepaper.git
+  git checkout -b <your-branch-name>
+  ```
+
+2. Make your changes
+
+3. Lint files before a pull request
+
+  ```shell
+  # install markdownlint-cli from https://github.com/igorshubovych/markdownlint-cli
+  markdownlint '**/*.md'  -c .github/workflows/markdownlint.yaml
+  ```
+
+4. Submit a pull request
+
+## License
+
+All the content are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
