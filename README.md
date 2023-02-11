@@ -12,6 +12,10 @@
   - [What is FuFi](#what-is-fufi)
     - [FuFi Protocol Ecosystem](#fufi-protocol-ecosystem)
     - [FuFi Protocols](#fufi-protocols)
+  - [FuFi Protocol Whitepaper](#fufi-protocol-whitepaper)
+    - [FuFi Spot Trading DEX Whitepaper](https://github.com/fufiprotocol/fufi.whitepaper/blob/main/fufi.dex-spot.md)
+    - [FuFi Perptual Swap DEX Whitepaper](https://github.com/fufiprotocol/fufi.whitepaper/blob/main/fufi.dex-perpswap.md)
+    - [FuFi Stablecoin Whitepaper](https://github.com/fufiprotocol/fufi.whitepaper/blob/main/fufi.stablecoin.md)
   - [Contribute](#contribute)
   - [License](#license)
   
@@ -69,9 +73,9 @@ FuFi runs ontop of certain public blockchains that can be customized to meet bot
 ## FuFi Protocols
 
 FuFi supports at least the following protocols: 
-  - FuFi Spot Trading DEX: [FuFi Spot Trading DEX Whitepaper](https://github.com/fufiprotocol/fufi.whitepaper/blob/main/fufi.dex-spot.md) 
-  - FuFi Perptual Swap Trading DEX: [FuFi Perptual Swap DEX Whitepaper](https://github.com/fufiprotocol/fufi.whitepaper/blob/main/fufi.dex-perpswap.md)
-  - FuFi Stablecoin: [FuFi Stablecoin Whitepaper](https://github.com/fufiprotocol/fufi.whitepaper/blob/main/fufi.stablecoin.md)
+  - FuFi Spot Trading DEX
+  - FuFi Perptual Swap Trading DEX
+  - FuFi Stablecoin
    
 
 In the future, following protocols will be considered to support:
@@ -80,6 +84,11 @@ In the future, following protocols will be considered to support:
   - peer-to-peer lending 
   - insurance 
    
+## FuFi Protocol Whitepaper
+  - [FuFi Spot Trading DEX Whitepaper](https://github.com/fufiprotocol/fufi.whitepaper/blob/main/fufi.dex-spot.md) 
+  - [FuFi Perptual Swap DEX Whitepaper](https://github.com/fufiprotocol/fufi.whitepaper/blob/main/fufi.dex-perpswap.md)
+  - [FuFi Stablecoin Whitepaper](https://github.com/fufiprotocol/fufi.whitepaper/blob/main/fufi.stablecoin.md)
+
 ## Contribute
 
 1. Clone the repo and checkout a branch
