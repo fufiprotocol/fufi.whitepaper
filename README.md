@@ -25,7 +25,7 @@ FuFi is thus hailed to provide a coherent set of DeFi protocols and underlying s
 
 ### Performance oriented
 
-Following performance metrics must be met:
+FuFi as a protocol cannot perform by simply optimizing itself. It is critical to choose a performant underlying network to meet performance requirements. Following performance metrics must be met in a chosen blockchain network:
 
 1. second-level transaction onchain speed (thus low-latency for price updates etc)
 2. second-level transaction confirmation speed
