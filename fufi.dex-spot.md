@@ -17,4 +17,4 @@
   
 ## Why Order-book based Spot Trading?
 
-There are many decentralized exchanges (DEXs) protocols existing in DeFi world nowadays and majority of them fall into the category of automatic market maker (AMM). It encentivizes average users to become liquidity providers. However, AMM has been regarded as a passive market making mechanism. Tranditional traders are primarily more interested in active market making.
+There are many decentralized exchanges (DEXs) protocols existing in DeFi world nowadays and majority of them fall into the category of automatic market maker (AMM) which encentivizes average users to become liquidity providers. However, AMM has been regarded as a passive market making mechanism. Tranditional traders are primarily more interested in active market making, meaning placing orders with a limit or market price.
