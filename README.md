@@ -25,7 +25,7 @@ There are so many decentralized finance (DeFi) protocols out there, running onto
 
 FuFi is thus hailed to provide a coherent set of DeFi protocols and underlying supporting technologies to enable the user exeprience as evidenced in traditional finance as well as serves as a bridge between the centralized and decenetralized financial world.
 
-## Design Principals
+## Design Principles
 
 ### Performance oriented
 
