@@ -50,7 +50,7 @@ It's paramount important to achieve security as well as usability for end users
 
 ### Affordable
 
-It's determined that the gas model as adopted in majority blockchain technologies are not suitable for DeFi which usually invovles large volume of transactions and hence the gas cost that would daunt a lot of investors or traders. Meanwhile unfair advantages in trading could be achieved by simply leveraging or manipulating gas prices.
+It is determined that the gas model as adopted in majority blockchain technologies are not suitable for DeFi which usually invovles large volume of transactions and hence the gas cost that would daunt a lot of investors or traders. Meanwhile unfair advantages in trading could be achieved by simply leveraging or manipulating gas prices.
 
 With the afforability, FuFi is set to achieve financial inclusiveness for majority users from around the world. Hence, the underlying network to support FuFi shall adopt a different onchain resource control mechanism other than the gas model.
 
