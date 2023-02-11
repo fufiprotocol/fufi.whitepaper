@@ -4,7 +4,7 @@
 
 ## Table of Content
   - [Why FuFi?](#why-fufi)
-  - [Design Principals](#design-principals)
+  - [Design Principles](#design-principles)
     - [Performance oriented](#performance-oriented)
     - [Open and transparent](#open-and-transparent)
     - [Secure while easy-to-use](#secure-while-easy-to-use)
