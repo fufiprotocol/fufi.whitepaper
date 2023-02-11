@@ -5,7 +5,7 @@
 
 ## Table of Content
   - [Why Order-book based Spot Trading?](#why-spot-trading)
-  - [Design Principals](#design-principals)
+  - [Design Principles](#design-principles)
     - [Transparency](#transparency)
     - [No front-running](#no-front-running)
     - [No centralized custody](#no-centralized-custody)
