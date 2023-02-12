@@ -17,6 +17,7 @@
     - [FuFi Perptual Swap DEX Whitepaper](https://github.com/fufiprotocol/fufi.whitepaper/blob/main/fufi.dex-perpswap.md)
     - [FuFi Decentralized Stablecoin Whitepaper](https://github.com/fufiprotocol/fufi.whitepaper/blob/main/fufi.stablecoin.md)
   - [FuFi Governance Token](#fufi-governance-token)
+  - [About Us](#about-us)
   - [Contribute](#contribute)
   - [License](#license)
   
@@ -93,6 +94,11 @@ In the future, following protocols will be considered to support:
 ## FuFi Governance Token
 
 There will be a single governance token that rules all FuFi protocols.
+
+## About Us
+
+Project FuFi is built by the FuFi Foundation. We are a group of experts in cryptocurrencies, trading, and decentralized finance.
+While we have built the FuFi protocols, it is permissionless we do not hold special power anymore. It is up to you, the crypto community, to use it as you will.
 
 ## Contribute
 
