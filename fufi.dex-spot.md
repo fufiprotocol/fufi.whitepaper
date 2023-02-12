@@ -18,7 +18,6 @@
   - [Trading Fees](#trading-fees)
   - [Resource Model](#resource-model)
   - [Armonia](#armonia)
-  - [Architecture](#architecture)
   - [Contribute](#contribute)
   - [License](#license)
   
