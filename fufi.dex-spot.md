@@ -24,6 +24,7 @@ from FuFi end users.
 
 ## Key characteristics
 ### limit order and market order
+FuFi on-chain limit orderbooks allow users to submit orders with directions, prices and sizes, giving them control over their trading. Orders are recorded, matched and settled fully onchain. Users can also cancel unmatched orders from onchain.
 
 ### price-time-priority-basis
 In short, the highest bid and the lowest ask converge to represent the current market price, and users have the option to cross this bid-ask spread to immediately execute the order. Given the transparency of this system, users can see market depth in real-time.
