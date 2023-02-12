@@ -17,4 +17,22 @@
   
 ## Why Order-book based Spot Trading?
 
-There are many decentralized exchanges (DEXs) protocols existing in DeFi world nowadays and majority of them fall into the category of automatic market maker (AMM) which encentivizes average users to become liquidity providers. However, AMM has been regarded as a passive market making mechanism. Tranditional traders are primarily more interested in active market making, meaning placing orders with a limit or market price.
+There are many decentralized exchanges (DEXs) protocols existing in DeFi world nowadays and majority of them fall into the category of automated market maker (AMM) which encentivizes average users to become liquidity providers. However, AMM has been regarded as a passive market making mechanism. Tranditional traders are primarily more interested in active market making, meaning placing orders with a limit or market price.
+
+This will give traders full control over their orders, unlike automated market making. Orderbook and matching is fully automated on-chain and orders are
+from FuFi end users.
+
+## Key characteristics
+### limit order and market order
+
+### price-time-priority-basis
+In short, the highest bid and the lowest ask converge to represent the current market price, and users have the option to cross this bid-ask spread to immediately execute the order. Given the transparency of this system, users can see market depth in real-time.
+ 
+### realtime settlement
+### self-custody
+
+### NFT-1155 supported
+
+## Market maker
+
+## Trade to mine
