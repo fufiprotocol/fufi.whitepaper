@@ -14,7 +14,7 @@
   - [Trading Pairs](#trading-pairs)
     - [ERC-20 Tokens](#erc-20-tokens) 
     - [NFT-1155 Tokens](#nft-1155-tokens)
-  - [List/Delist Tokens on FuFi Spot DEX](#list/delist-tokens-on-fufi-spot-dex)
+  - [List/Delist Tokens](#list/delist-tokens)
   - [Trading Fees](#trading-fees)
   - [Resource Model](#resource-model)
   - [Armonia](#armonia)
@@ -55,7 +55,7 @@ Once FuFi decentralized stablecoin is ready, it will be introduced as a new opti
 
 ### NFT-1155 Tokens
 
-## List/Delist Tokens on FuFi Spot DEX
+## List/Delist Tokens
 
 Main coins like BTC/ETH/USDT/USDC will be supported on the launch of FuFi spot DEX. For new tokens, they will be only listed after going through a governance process via onchain voting. It can be also possible to delist a token from FuFi spot after a governance process.
 
