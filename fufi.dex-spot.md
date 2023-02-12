@@ -17,7 +17,7 @@
   - [List/Delist Tokens](#listdelist-tokens)
   - [Trading Fees](#trading-fees)
   - [Resource Model](#resource-model)
-  - [Armonia](#armonia)
+  - [Armonia Blockchain](#armonia-blockchain)
   
 ## Why Order-book based Spot Trading?
 
@@ -67,7 +67,7 @@ FuFi doesnot prefer a gas model which is deemed not friendly to end users and DE
 
 Howerver, some malicious attackers could create a denial of serice (DOS) attack by placing a large amount of miniature-sized trades to occupy the execution queue and estentially block all other trades from other legitimate users. This kind of attacks will be countered by a risk control engine running offchain to monitor all onchain activites and blacklist such trades and penalize them by removing their funds into a common pool for other users to share.
 
-## Armonia
+## Armonia Blockchain
 
 [Armonia](https://amax.network) is a blockchain with significantly higher speed and lower costs than most contemporary blockchains. It has hunderds of settlement cycles per second and costs zero to send a message–both orders of magnitude above existing standards. The Armonia-based FuFi DEX will have the speed, cost and UX that users expect from a centralized exchange–all while being trustless and noncustodial.
 
