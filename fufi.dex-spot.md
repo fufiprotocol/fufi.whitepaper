@@ -64,3 +64,9 @@ There is a fee charged on each trade. All of those net fees go into a buy/burn o
 FuFi doesnot prefer a gas model which is deemed not friendly to end users and DEX operation. Hence resource model as adopted in FuFi protocols usually requires end users to stake in blockchain main coins in order to particpate in trading activities. However, to achieve the best user experience, FuFi DEX will cover the resource cost for each trade instead of requiring end users to pay for the resource usage. 
 
 Howerver, some malicious attackers could create a denial of serice (DOS) attack by placing a large amount of miniature-sized trades to occupy the execution queue and estentially block all other trades from other legitimate users. This kind of attacks will be countered by a risk control engine running offchain to monitor all onchain activites and blacklist such trades and penalize them by removing their funds into a common pool for other users to share.
+
+## Armonia
+
+[Armonia](https://amax.network) is a blockchain with significantly higher speed and lower costs than older blockchains. It has hunderds of settlement cycles per second and costs zero to send a message–both orders of magnitude above existing standards. The Armonia-based FuFi DEX will have the speed, cost and UX that users expect from a centralized exchange–all while being trustless and noncustodial.
+
+And because of FuFi’s full cross-chain integration, users will be able to trade BTC, ETH, ERC20s, ARC20 tokens (the token standard on the Armonia blockchain), and more on it. This will finally give DeFi users a fully decentralized exchange that has the experience they’ve come to expect from CeFi (e.g. centralized exchanges).
