@@ -14,12 +14,10 @@
   - [Trading Pairs](#trading-pairs)
     - [ERC-20 Tokens](#erc-20-tokens) 
     - [NFT-1155 Tokens](#nft-1155-tokens)
-  - [List/Delist Tokens](#list-delist-tokens)
+  - [List/Delist Tokens](#listdelist-tokens)
   - [Trading Fees](#trading-fees)
   - [Resource Model](#resource-model)
   - [Armonia](#armonia)
-  - [Contribute](#contribute)
-  - [License](#license)
   
 ## Why Order-book based Spot Trading?
 
