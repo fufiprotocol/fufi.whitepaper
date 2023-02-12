@@ -38,6 +38,9 @@ In short, the highest bid and the lowest ask converge to represent the current m
 ## Trade to mine
 
 ## Trading pairs
+
+First, crypto assets in ERC-20 form will be supported and then NFT-1155 tokens will be also supported.
+
 ### ERC-20 tokens
   - BTC-USDT
   - ETH-USDT
@@ -48,3 +51,6 @@ Once FuFi decentralized stablecoin is ready, it will be introduced as a new opti
 
 ### NFT-1155 supported
 
+## Listing tokens on FuFi Spot DEX
+
+Main coins like BTC/ETH/USDT/USDC will be supported on the launch of FuFi spot DEX. For new tokens, governance process through onchain voting will be conducted to determine listing them onto FuFi Spot DEX.
