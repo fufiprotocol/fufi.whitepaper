@@ -57,3 +57,8 @@ Main coins like BTC/ETH/USDT/USDC will be supported on the launch of FuFi spot D
 
 ## Trading fees
 
+There is a fee charged on each trade. All of those net fees go into a buy/burn of FuFi governance token.
+
+## Resource mode
+
+FuFi doesnot prefer a gas model which is not friendly to end users and DEX operation. Hence resource model as adopted in FuFi protocols usually requires end users to stake in blockchain main coins in order to particpate in trading activities. However, to achieve the best user experience, FuFi DEX will cover the resource cost for each trade instead of requiring end users to pay for the resource usage. 
