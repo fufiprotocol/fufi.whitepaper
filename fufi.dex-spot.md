@@ -43,7 +43,7 @@ In short, the highest bid and the lowest ask converge to represent the current m
   - BTC-USDC
   - ETH-USDC
   
-Once FuFi stablecoin is ready, it will be introduced as a new option for the quote symbol.
+Once FuFi decentralized stablecoin is ready, it will be introduced as a new option for the quote symbol.
 
 ### NFT-1155 supported
 
