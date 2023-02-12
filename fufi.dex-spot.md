@@ -31,8 +31,19 @@ In short, the highest bid and the lowest ask converge to represent the current m
 ### realtime settlement
 ### self-custody
 
-### NFT-1155 supported
 
 ## Market maker
 
 ## Trade to mine
+
+## Trading pairs
+### ERC-20 tokens
+  - BTC-USDT
+  - ETH-USDT
+  - BTC-USDC
+  - ETH-USDC
+  
+Once FuFi stablecoin is ready, it will be introduced as a new option for the quote symbol.
+
+### NFT-1155 supported
+
