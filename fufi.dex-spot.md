@@ -53,4 +53,4 @@ Once FuFi decentralized stablecoin is ready, it will be introduced as a new opti
 
 ## Listing tokens on FuFi Spot DEX
 
-Main coins like BTC/ETH/USDT/USDC will be supported on the launch of FuFi spot DEX. For new tokens, governance process through onchain voting will be conducted to determine listing them onto FuFi Spot DEX.
+Main coins like BTC/ETH/USDT/USDC will be supported on the launch of FuFi spot DEX. For new tokens, they will be only listed after going through a governance process via onchain voting. It can be also possible to delist a token from FuFi spot after a governance process.
