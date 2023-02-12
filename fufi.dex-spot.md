@@ -10,7 +10,7 @@
     - [price-time-priority-basis](#price-time-priority-basis)
     - [realtime settlement](#realtime-settlement)
     - [self-custody](#self-custody)
-  - [Market Maker](#market-maker)
+  - [Liquidity and Market Maker](#liquidity-and-market-maker)
   - [Trading Pairs](#trading-pairs)
     - [ERC-20 Tokens](#erc-20-tokens) 
     - [NFT-1155 Tokens](#nft-1155-tokens)
@@ -37,7 +37,7 @@ In short, the highest bid and the lowest ask converge to represent the current m
 ### self-custody
 
 
-## Market maker
+## Liquidity and Market Maker
 
 ## Trading Pairs
 
