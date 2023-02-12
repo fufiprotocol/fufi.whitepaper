@@ -67,6 +67,6 @@ Howerver, some malicious attackers could create a denial of serice (DOS) attack 
 
 ## Armonia
 
-[Armonia](https://amax.network) is a blockchain with significantly higher speed and lower costs than older blockchains. It has hunderds of settlement cycles per second and costs zero to send a message–both orders of magnitude above existing standards. The Armonia-based FuFi DEX will have the speed, cost and UX that users expect from a centralized exchange–all while being trustless and noncustodial.
+[Armonia](https://amax.network) is a blockchain with significantly higher speed and lower costs than most contemporary blockchains. It has hunderds of settlement cycles per second and costs zero to send a message–both orders of magnitude above existing standards. The Armonia-based FuFi DEX will have the speed, cost and UX that users expect from a centralized exchange–all while being trustless and noncustodial.
 
 And because of FuFi’s full cross-chain integration, users will be able to trade BTC, ETH, ERC20s, ARC20 tokens (the token standard on the Armonia blockchain), and more on it. This will finally give DeFi users a fully decentralized exchange that has the experience they’ve come to expect from CeFi (e.g. centralized exchanges).
