@@ -5,12 +5,19 @@
 
 ## Table of Content
   - [Why Order-book based Spot Trading?](#why-spot-trading)
-  - [Design Principles](#design-principles)
-    - [Transparency](#transparency)
-    - [No front-running](#no-front-running)
-    - [No centralized custody](#no-centralized-custody)
-    - [Realtime settlement](#realtime-settlement)
-    - [Affordability](#affordablity)
+  - [Key Characteristics](#key-characteristics)
+    - [limit and market order](#limit-and-market-order)
+    - [price-time-priority-basis](#price-time-priority-basis)
+    - [realtime settlement](#realtime-settlement)
+    - [self-custody](#self-custody)
+  - [Market Maker](#market-maker)
+  - [Trading Pairs](#trading-pairs)
+    - [ERC-20 Tokens](#erc-20-tokens) 
+    - [NFT-1155 Tokens](#nft-1155-tokens)
+  - [List/Delist Tokens on FuFi Spot DEX](#list/delist-tokens-on-fufi-spot-dex)
+  - [Trading Fees](#trading-fees)
+  - [Resource Model](#resource-model)
+  - [Armonia](#armonia)
   - [Architecture](#architecture)
   - [Contribute](#contribute)
   - [License](#license)
@@ -22,8 +29,8 @@ There are many decentralized exchanges (DEXs) protocols existing in DeFi world n
 This will give traders full control over their orders, unlike automated market making. Orderbook and matching is fully automated on-chain and orders are
 from FuFi end users.
 
-## Key characteristics
-### limit order and market order
+## Key Characteristics
+### limit and market order
 FuFi on-chain limit orderbooks allow users to submit orders with directions, prices and sizes, giving them control over their trading. Orders are recorded, matched and settled fully onchain. Users can also cancel unmatched orders from onchain.
 
 ### price-time-priority-basis
@@ -35,13 +42,11 @@ In short, the highest bid and the lowest ask converge to represent the current m
 
 ## Market maker
 
-## Trade to mine
-
-## Trading pairs
+## Trading Pairs
 
 First, crypto assets in ERC-20 form will be supported and then NFT-1155 tokens will be also supported.
 
-### ERC-20 tokens
+### ERC-20 Tokens
   - BTC-USDT
   - ETH-USDT
   - BTC-USDC
@@ -49,17 +54,17 @@ First, crypto assets in ERC-20 form will be supported and then NFT-1155 tokens w
   
 Once FuFi decentralized stablecoin is ready, it will be introduced as a new option for the quote symbol.
 
-### NFT-1155 supported
+### NFT-1155 Tokens
 
-## List/Delist tokens on FuFi Spot DEX
+## List/Delist Tokens on FuFi Spot DEX
 
 Main coins like BTC/ETH/USDT/USDC will be supported on the launch of FuFi spot DEX. For new tokens, they will be only listed after going through a governance process via onchain voting. It can be also possible to delist a token from FuFi spot after a governance process.
 
-## Trading fees
+## Trading Fees
 
 There is a fee charged on each trade. All of those net fees go into a buy/burn of FuFi governance token.
 
-## Resource model
+## Resource Model
 
 FuFi doesnot prefer a gas model which is deemed not friendly to end users and DEX operation. Hence resource model as adopted in FuFi protocols usually requires end users to stake in blockchain main coins in order to particpate in trading activities. However, to achieve the best user experience, FuFi DEX will cover the resource cost for each trade instead of requiring end users to pay for the resource usage. 
 
