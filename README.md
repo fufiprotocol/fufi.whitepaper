@@ -17,6 +17,7 @@
     - [FuFi Perptual Swap DEX Whitepaper](https://github.com/fufiprotocol/fufi.whitepaper/blob/main/fufi.dex-perpswap.md)
     - [FuFi Decentralized Stablecoin Whitepaper](https://github.com/fufiprotocol/fufi.whitepaper/blob/main/fufi.stablecoin.md)
   - [FuFi Governance Token](#fufi-governance-token)
+  - [Vertical Optimization](#vertical-optimization)
   - [About Us](#about-us)
   - [Contribute](#contribute)
   - [License](#license)
