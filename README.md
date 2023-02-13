@@ -14,7 +14,7 @@
     - [FuFi Protocols](#fufi-protocols)
   - [FuFi Protocol Whitepaper](#fufi-protocol-whitepaper)
     - [FuFi Spot Trading DEX Whitepaper](https://github.com/fufiprotocol/fufi.whitepaper/blob/main/fufi.dex-spot.md)
-    - [FuFi Perptual Swap DEX Whitepaper](https://github.com/fufiprotocol/fufi.whitepaper/blob/main/fufi.dex-perpswap.md)
+    - [FuFi Perpetual Swap DEX Whitepaper](https://github.com/fufiprotocol/fufi.whitepaper/blob/main/fufi.dex-perpswap.md)
     - [FuFi Decentralized Stablecoin Whitepaper](https://github.com/fufiprotocol/fufi.whitepaper/blob/main/fufi.stablecoin.md)
   - [FuFi Governance Token](#fufi-governance-token)
   - [Vertical Optimization](#vertical-optimization)
