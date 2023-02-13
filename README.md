@@ -98,8 +98,7 @@ There will be a single governance token that rules all FuFi protocols. Each FuFi
 
 ## About Us
 
-Project FuFi is built by the FuFi Foundation. We are a group of experts in cryptocurrencies, trading, and decentralized finance.
-While we have built the FuFi protocols, it is permissionless we do not hold special power anymore. It is up to you, the crypto community, to use it as you will.
+Project FuFi is built by the FuFi Foundation. We are a group of experts in cryptocurrencies, trading, and decentralized finance. While we have built the FuFi protocols, it is strived to be permissionless that we do not hold special power anymore. It is up to you, the crypto community, to use it as you will.
 
 ## Contribute
 
