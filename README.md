@@ -77,7 +77,7 @@ FuFi runs ontop of certain public blockchains that can be customized to meet bot
 
 FuFi supports at least the following protocols: 
   - FuFi Spot Trading DEX
-  - FuFi Perptual Swap Trading DEX
+  - FuFi Perpetual Swap Trading DEX
   - FuFi Decentralized Stablecoin
    
 
@@ -89,7 +89,7 @@ In the future, following protocols will be considered to support:
    
 ## FuFi Protocol Whitepaper
   - [FuFi Spot Trading DEX Whitepaper](https://github.com/fufiprotocol/fufi.whitepaper/blob/main/fufi.dex-spot.md) 
-  - [FuFi Perptual Swap DEX Whitepaper](https://github.com/fufiprotocol/fufi.whitepaper/blob/main/fufi.dex-perpswap.md)
+  - [FuFi Perpetual Swap DEX Whitepaper](https://github.com/fufiprotocol/fufi.whitepaper/blob/main/fufi.dex-perpswap.md)
   - [FuFi Decentralized Stablecoin Whitepaper](https://github.com/fufiprotocol/fufi.whitepaper/blob/main/fufi.stablecoin.md)
 
 ## FuFi Governance Token
