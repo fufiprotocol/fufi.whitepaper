@@ -8,7 +8,7 @@
   - [Key Characteristics](#key-characteristics)
     - [limit and market order](#limit-and-market-order)
     - [price-time-priority-basis](#price-time-priority-basis)
-    - [realtime settlement](#realtime-settlement)
+    - [realtime onchain settlement](#realtime-onchain-settlement)
     - [self-custody](#self-custody)
   - [Liquidity and Market Maker](#liquidity-and-market-maker)
   - [Trading Pairs](#trading-pairs)
@@ -33,11 +33,11 @@ FuFi on-chain limit orderbooks allow users to submit orders with directions, pri
 ### price-time-priority-basis
 In short, the highest bid and the lowest ask converge to represent the current market price, and users have the option to cross this bid-ask spread to immediately execute the order. Given the transparency of this system, users can see market depth in real-time.
  
-### realtime settlement
-### self-custody
-
+### Realtime onchain settlement
+Unlike centralized exchanges (CEXs) that keep settled assets in their centralized custodian environment, FuFi Spot-trading DEX transfers the settled assets to the traders immediately upon settlement.
 
 ## Liquidity and Market Maker
+Liquidity is key for attracting traders/investors to trade on FuFi DEX. It can be especially hard for the initial stage to have enough traders and liquidity in the market. However, through market making activities, all top well-known exchanges will be good sources for borrowing liquidity from.
 
 ## Trading Pairs
 
