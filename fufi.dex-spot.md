@@ -39,6 +39,8 @@ Unlike centralized exchanges (CEXs) that keep settled assets in their centralize
 ## Liquidity and Market Maker
 Liquidity is key for attracting traders/investors to trade on FuFi DEX. It can be especially hard for the initial stage to have enough traders and liquidity in the market. However, through market making activities, all top well-known exchanges will be good sources for borrowing liquidity from.
 
+In a long run, average users can also leverage a cloud-based trading bot service to do quantitive trading including meeting market making needs.
+
 ## Trading Pairs
 
 First, crypto assets in ERC-20 form will be supported and then NFT-1155 tokens will be also supported.
