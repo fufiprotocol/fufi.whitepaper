@@ -6,10 +6,14 @@
 - Symbol code: TBD
 - Precision: 18 on EVM chains and 4 on AMAX chain
 
-# FuFi Governance Token Smart Contract Addresses
+# FuFi Governance Tokens on different blockchains
+
+In order for a fast acquision of FuFi Governace tokens by community users/investors, FuFi Governance Token will be first issued on following blockchains and their corresponding deployed smart contract addresses are:
 - Ethereum: `to-be-deployed`
-- Binance Smart Chain: `to-be-deployed`
+- Binance Smart Chain (BSC): `to-be-deployed`
 - Armonia Meta Chain: `amax.mtoken`
+
+In addition, tokens issued on both Ethereum and BSC chain can be easily mirrored/bridged into Armonia Meta Chain via its well-established `xChain` bridge. Tokens running on Armonia Meta Chain can participate in FuFi protocols that also run ontop of the same public chain.
 
 ```
 Please double confirm the addresses with https://fufi.foundation for absolute accuracy!
