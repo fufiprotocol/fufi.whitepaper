@@ -17,7 +17,7 @@ Included and not limited to the following rights/privileges:
 # Token Allocation
 - Early investors (IDO): 15%, to be locked for a year and released on a quarterly basis with 10% release each quarter
 - Team: 15%, to be locked for two years and released on a quarterly basis with 10% release each quarter
-- Foundation: 70%, all to be spent in project operation and market promotion activities. It will be DAO driven.
+- Foundation: 70%, all to be spent in project operation and market promotion activities. It will be primarily DAO driven.
 
 # Spot DEX
 - Deflation model: 50% of trading fees (quote symbol) used to buy & burn FuFi Governance Token
