@@ -37,7 +37,7 @@ Including but not limited to the following rights/privileges:
 For selected trading pairs in both FuFi Spot and Futures DEX, their trading fees will be subjec to following fee spending scheme:
 
 - Deflation model: `50%` of trading fees used to buy & burn FuFi Governance Token
-- Trading as mining: `40%` of trading fees (quote symbol only) will go into a reward pool for sharing pre-allocated governance tokens
+- Trading as mining: `40%` of trading fees (quote symbol only) will go into a reward pool for sharing pre-alloted governance tokens
 - Foundation vault: `10%` of trading fees goes to foundation vault for product and community development
 - 
 P.S. the percentages will be subject to DAO governance
