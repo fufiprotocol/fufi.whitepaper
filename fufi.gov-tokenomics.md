@@ -32,7 +32,7 @@ Including but not limited to the following rights/privileges:
 - Dev Team: `15%`, to be locked for two years and released on a quarterly basis with 10% release each quarter
 - Foundation: `70%`, all to be spent in project operation and market promotion activities. It will be primarily DAO driven.
 
-# Spot DEX
+# Token Deflation & Mining with FuFi DEXs
 
 For selected trading pairs in both FuFi Spot and Futures DEX, their trading fees will be subjec to following fee spending scheme:
 
