@@ -8,12 +8,11 @@
 
 # FuFi Governance Tokens on multiple blockchains
 
-For embracing fast and wide adoption of FuFi Governace tokens by community users/investors worldwide, FuFi Governance Token will be issued on following blockchains and their corresponding deployed smart contract addresses are:
-- Ethereum: `to-be-deployed`
-- Binance Smart Chain (BSC): `to-be-deployed`
-- Armonia Meta Chain: `amax.mtoken`
+For embracing fast and wide adoption of FuFi Governace tokens by community users/investors worldwide, FuFi Governance Token will be first issued on following blockchains and their corresponding deployed smart contract addresses are:
+- Ethereum: `to-be-deployed`, amount: 5 billion
+- Binance Smart Chain (BSC): `to-be-deployed`, amount: 5 billion
 
-In addition, tokens issued on both Ethereum and BSC chain can be easily mirrored/bridged into Armonia Meta Chain via its well-established [xChain](https://xchain.pro) bridge. Tokens running on Armonia Meta Chain can participate in FuFi protocols that also run ontop of the same public chain.
+Then the tokens from the above two blockchains shall be fully bridged over to Armonia Meta Chain if possible via its well-established [xChain](https://xchain.pro) bridge, in order to participate in FuFi protocols that also run ontop of Armonia Meta Chain.
 
 ```html
 Please double confirm the smart contract addresses with https://fufi.foundation for absolute accuracy!
