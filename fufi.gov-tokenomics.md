@@ -25,7 +25,7 @@ Including but not limited to the following rights/privileges:
 
 - member fee tier based on holding amount
 - voting right for listing/delisting DEX trading pairs
-- enjoy token mining in Spot DEX
+- enjoy token mining in trading in FuFi Spot DEX
 
 # Token Allocation
 - Early investors (IDO): 15%, to be locked for a year and released on a quarterly basis with 10% release each quarter
