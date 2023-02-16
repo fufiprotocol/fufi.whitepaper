@@ -11,7 +11,9 @@
 - Binance Smart Chain: `to-be-deployed`
 - Armonia Meta Chain: `amax.mtoken`
 
-`Please compare the above with https://fufi.foundation for absolute accuracy```
+```
+Please double confirm the addresses with https://fufi.foundation for absolute accuracy!
+```
 
 # Governance Token Rights
 
