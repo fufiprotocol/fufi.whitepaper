@@ -6,6 +6,11 @@
 - Symbol code: TBD
 - Precision: 18 on EVM chains and 4 on AMAX chain
 
+# FuFi Governance Token Smart Contract Addresses
+- Ethereum: `to-be-deployed`
+- Binance Smart Chain: `to-be-deployed`
+- Armonia Meta Chain: `amax.mtoken`
+
 # Governance Token Rights
 
 Included and not limited to the following rights/privileges:
