@@ -33,6 +33,11 @@ Including but not limited to the following rights/privileges:
 - Foundation: `70%`, all to be spent in project operation and market promotion activities. It will be primarily DAO driven.
 
 # Spot DEX
-- Deflation model: `50%` of trading fees (quote symbol) used to buy & burn FuFi Governance Token
+
+Trading fees incurred in trading in FuFi Spot and futures DEX will participate in following fee spending scheme:
+
+- Deflation model: `50%` of trading fees (quote symbol only) used to buy & burn FuFi Governance Token
 - Foundation vault: `10%` of trading fees goes to foundation vault for product and community development
 - Trading as mining: remaining `40%` of trading fees will go into a reward pool for sharing pre-allocated governance tokens
+
+P.S. the percentages will be subject to DAO governance
