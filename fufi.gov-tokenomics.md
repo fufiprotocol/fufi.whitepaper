@@ -16,7 +16,7 @@ In order for a fast acquision of FuFi Governace tokens by community users/invest
 In addition, tokens issued on both Ethereum and BSC chain can be easily mirrored/bridged into Armonia Meta Chain via its well-established `xChain` bridge. Tokens running on Armonia Meta Chain can participate in FuFi protocols that also run ontop of the same public chain.
 
 ```
-Please double confirm the addresses with https://fufi.foundation for absolute accuracy!
+Please double confirm the smart contract addresses with https://fufi.foundation for absolute accuracy!
 ```
 
 # Governance Token Rights
