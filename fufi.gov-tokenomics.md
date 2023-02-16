@@ -6,7 +6,7 @@
 - Symbol code: TBD
 - Precision: 18 on EVM chains and 4 on AMAX chain
 
-# FuFi Governance Tokens on different blockchains
+# FuFi Governance Tokens on multiple blockchains
 
 In order for a fast acquision of FuFi Governace tokens by community users/investors, FuFi Governance Token will be first issued on following blockchains and their corresponding deployed smart contract addresses are:
 - Ethereum: `to-be-deployed`
