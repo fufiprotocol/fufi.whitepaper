@@ -17,7 +17,7 @@ Please double confirm the addresses with https://fufi.foundation for absolute ac
 
 # Governance Token Rights
 
-Included are and not limited to the following rights/privileges:
+Including but not limited to the following rights/privileges:
 
 - member fee tier based on holding amount
 - voting right for listing/delisting DEX trading pairs
