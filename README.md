@@ -94,7 +94,7 @@ In the future, following protocols will be considered to support:
 
 ## FuFi Governance Token
 
-There will be a single governance token that rules all FuFi protocols. Individual FuFi protocols may have their dedicated operational tokens. Please refer to [Tokenomics of FuFi Governance Token] for depth.
+There will be a single governance token that rules all FuFi protocols. Individual FuFi protocols may have their dedicated operational tokens. Please refer to [Tokenomics of FuFi Governance Token](#https://github.com/fufiprotocol/fufi.whitepaper/blob/main/fufi.gov-tokenomics.md) for depth.
 
 ## About Us
 
