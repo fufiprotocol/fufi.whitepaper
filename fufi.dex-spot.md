@@ -23,8 +23,7 @@
 
 There are many decentralized exchanges (DEXs) protocols existing in DeFi world nowadays and majority of them fall into the category of automated market maker (AMM) which incentivizes average users to become liquidity providers. However, AMM has been regarded as a passive market making mechanism. Tranditional traders are primarily more interested in active market making, meaning placing orders with a limit or market price.
 
-This will give traders full control over their orders, unlike automated market making. Orderbook and matching is fully automated on-chain and orders are
-from FuFi end users.
+This will give traders the full control over their orders, unlike automated market making. Orderbook and matching is fully automated on-chain and orders are coming directly from FuFi end users.
 
 ## Key Characteristics
 ### limit and market order
