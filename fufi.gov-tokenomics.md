@@ -40,5 +40,5 @@ For selected trading pairs in both FuFi Spot and Futures DEX, their trading fees
 - Foundation vault: `10%` of trading fees goes to foundation vault for product and community development
 
 ```
-P.S. the percentages will be subject to change through DAO governance
+P.S. Selection of trading pairs and the percentages will be subject to change through DAO governance
 ```
