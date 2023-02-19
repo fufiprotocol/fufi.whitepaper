@@ -58,7 +58,7 @@ Once FuFi decentralized stablecoin is ready, it will be introduced as a new opti
 
 ### NFT-1155 Tokens
 
-Technically these kind of assets can be also traded in FuFi DEX and when the great needs arise for certain NFT-1155 or even other type of NFT tokens to be traded in DEX, FuFi will certainly open up the trading functions to them.
+Technically these kinds of assets can be also traded in FuFi DEX and when the great needs arise for certain NFT-1155 or even other type of NFT tokens to be traded in DEX, FuFi will certainly open up the trading functions to them.
 
 ## List/Delist Tokens
 
