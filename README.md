@@ -101,6 +101,10 @@ In the future, following protocols will be considered to support:
 
 There will be a single governance token that rules all FuFi protocols. Individual FuFi protocols may have their dedicated operational tokens. Please refer to [Tokenomics of FuFi Token](https://github.com/fufiprotocol/fufi.whitepaper/blob/main/fufi.tokenomics.md) for details. FuFi token serves as both utility and governance tokens to FuFi protocol ecosystem.
 
+## Vertical Optimization
+
+DeFi is a multi-layer system and has to be vertically/wholistically optimized, from UX to the protocol, to the surrounding tools and services, and to the underlying blockchain network(s). FuFi team is lucky enough to be able to work with the team of underlying network for all necessary optimizations, just to make FuFi stand out among others.
+
 ## About Us
 
 Project FuFi is built by the FuFi Foundation. We are a group of experts in cryptocurrencies, trading, and decentralized finance. While we have built the FuFi protocols, it is strived to be permissionless that we do not hold special power anymore. It is up to you, the crypto community, to use it as you will.
