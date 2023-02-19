@@ -16,7 +16,7 @@
     - [FuFi Spot Trading DEX Whitepaper](https://github.com/fufiprotocol/fufi.whitepaper/blob/main/fufi.dex-spot.md)
     - [FuFi Perpetual Swap DEX Whitepaper](https://github.com/fufiprotocol/fufi.whitepaper/blob/main/fufi.dex-perpswap.md)
     - [FuFi Decentralized Stablecoin Whitepaper](https://github.com/fufiprotocol/fufi.whitepaper/blob/main/fufi.stablecoin.md)
-  - [FuFi Governance Token](#fufi-governance-token)
+  - [FuFi Token](#fufi-token)
   - [Vertical Optimization](#vertical-optimization)
   - [About Us](#about-us)
   - [Contribute](#contribute)
@@ -93,9 +93,9 @@ In the future, following protocols will be considered to support:
   - [FuFi Perpetual Swap DEX Whitepaper](https://github.com/fufiprotocol/fufi.whitepaper/blob/main/fufi.dex-perpswap.md)
   - [FuFi Decentralized Stablecoin Whitepaper](https://github.com/fufiprotocol/fufi.whitepaper/blob/main/fufi.stablecoin.md)
 
-## FuFi Governance Token
+## FuFi Token
 
-There will be a single governance token that rules all FuFi protocols. Individual FuFi protocols may have their dedicated operational tokens. Please refer to [Tokenomics of FuFi Governance Token](https://github.com/fufiprotocol/fufi.whitepaper/blob/main/fufi.gov-tokenomics.md) for details.
+There will be a single governance token that rules all FuFi protocols. Individual FuFi protocols may have their dedicated operational tokens. Please refer to [Tokenomics of FuFi Token](https://github.com/fufiprotocol/fufi.whitepaper/blob/main/fufi.tokenomics.md) for details. FuFi token serves as both utility and governance tokens to FuFi protocol ecosystem.
 
 ## About Us
 
