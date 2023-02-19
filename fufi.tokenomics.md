@@ -1,12 +1,12 @@
-`FuFi Governance Tokenomics`
+`FuFi Tokenomics`
 
-# FuFi Governance Token Profile
+# FuFi Token Profile
 
 - Total supply: `10 billion`
 - Symbol code: TBD
 - Precision: 18 on EVM chains and 4 on AMAX chain
 
-# FuFi Governance Tokens on multiple blockchains
+# FuFi Tokens on multiple blockchains
 
 For embracing fast and wide adoption of FuFi Governace tokens by community users/investors worldwide, FuFi Governance Token will be first issued on following blockchains and their corresponding deployed smart contract addresses are:
 - Ethereum: `to-be-deployed`, amount: 5 billion
@@ -18,7 +18,7 @@ Then the tokens from the above two blockchains shall be fully bridged over to Ar
 Please double confirm the smart contract addresses with https://fufi.foundation for absolute accuracy!
 ```
 
-# Governance Token Rights
+# FuFi Token Rights
 
 Including but not limited to the following rights/privileges:
 
