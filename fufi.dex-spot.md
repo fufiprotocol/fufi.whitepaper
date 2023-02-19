@@ -66,7 +66,7 @@ Main coins like BTC/ETH/USDT/USDC will be supported on the launch of FuFi spot D
 
 ## Trading Fees
 
-There is a fee charged on each trade. All of those net fees go into a buy/burn of FuFi governance token.
+There is a fee charged on each trade. All of those net fees go into a buy/burn of FuFi token. Morever, there may be reward FuFi tokens to be placed into an incentive pool to let all traders share based on their trading volume of the previous day.
 
 ## Resource Model
 
