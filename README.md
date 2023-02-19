@@ -78,14 +78,12 @@ FuFi runs ontop of certain public blockchains that can be customized to meet bot
 ## FuFi Protocols
 
 FuFi supports at least the following protocols:
-
 - FuFi Spot Trading DEX
 - FuFi Perpetual Swap Trading DEX
 - FuFi Decentralized Stablecoin
    
 
 In the future, following protocols will be considered to support:
-
 - margin trading
 - swap/options
 - peer-to-peer lending 
