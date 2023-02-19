@@ -26,6 +26,7 @@ There are many decentralized exchanges (DEXs) protocols existing in DeFi world n
 This will give traders the full control over their orders, unlike automated market making. Orderbook and matching is fully automated on-chain and orders are coming directly from FuFi end users.
 
 ## Key Characteristics
+
 ### limit and market order
 FuFi on-chain limit orderbooks allow users to submit orders with directions, prices and sizes, giving them control over their trading. Orders are recorded, matched and settled fully onchain. Users can also cancel unmatched orders from onchain.
 
@@ -45,10 +46,13 @@ In a long run, average users can also leverage a cloud-based trading bot service
 First, crypto assets in ERC-20 form will be supported and then NFT-1155 tokens will be also supported.
 
 ### ERC-20 Tokens
-  - BTC-USDT
-  - ETH-USDT
-  - BTC-USDC
-  - ETH-USDC
+
+Initially supported trading pairs are as following upon launch:
+
+- BTC-USDT
+- ETH-USDT
+- BTC-USDC
+- ETH-USDC
   
 Once FuFi decentralized stablecoin is ready, it will be introduced as a new option for the quote symbol.
 
