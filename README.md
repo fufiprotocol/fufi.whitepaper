@@ -70,25 +70,29 @@ FuFi is a suite of decentralized finance protocols determined to be the cornerst
 <div align="center"><i>Figure 1.1: FuFi Protocol Ecosystem</i></div>
 
 FuFi runs ontop of certain public blockchains that can be customized to meet both security and performance targets of FuFi protocols. In addition, following technologies are also employed/developed to achieve the ultimate goals of FuFi protocols:
+
 - a cross-chain bridge to allow mirrowing digital assets back and forth from other public blockchains
 - a set of decentralized oracles to allow injecting external world information onto the FuFi protocols that reside in blockchain
 - automated trading bots that wait to be employed by community users/traders for greatest yields possible
   
 ## FuFi Protocols
 
-FuFi supports at least the following protocols: 
+FuFi supports at least the following protocols:
+
 - FuFi Spot Trading DEX
 - FuFi Perpetual Swap Trading DEX
 - FuFi Decentralized Stablecoin
    
 
 In the future, following protocols will be considered to support:
+
 - margin trading
 - swap/options
 - peer-to-peer lending 
 - insurance 
    
 ## FuFi Protocol Whitepaper
+
 - [FuFi Spot Trading DEX Whitepaper](https://github.com/fufiprotocol/fufi.whitepaper/blob/main/fufi.dex-spot.md) 
 - [FuFi Perpetual Swap DEX Whitepaper](https://github.com/fufiprotocol/fufi.whitepaper/blob/main/fufi.dex-perpswap.md)
 - [FuFi Decentralized Stablecoin Whitepaper](https://github.com/fufiprotocol/fufi.whitepaper/blob/main/fufi.stablecoin.md)
