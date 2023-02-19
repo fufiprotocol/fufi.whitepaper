@@ -8,7 +8,7 @@
 
 # FuFi Tokens on multiple blockchains
 
-For embracing fast and wide adoption of FuFi Governace tokens by community users/investors worldwide, FuFi Governance Token will be first issued on following blockchains and their corresponding deployed smart contract addresses are:
+For embracing fast and wide adoption of FuFi tokens by community users/investors worldwide, FuFi Token will be first issued on following blockchains and their corresponding deployed smart contract addresses are:
 - Ethereum: `to-be-deployed`, amount: 5 billion
 - Binance Smart Chain (BSC): `to-be-deployed`, amount: 5 billion
 
@@ -35,8 +35,8 @@ Including but not limited to the following rights/privileges:
 
 For selected trading pairs in both FuFi Spot and Futures DEX, their trading fees will be subjec to following fee spending scheme:
 
-- Deflation model: `50%` of trading fees used to buy & burn FuFi Governance Token
-- Trading as mining: `40%` of trading fees (quote symbol only) will go into a reward pool for sharing pre-alloted governance tokens
+- Deflation model: `50%` of trading fees used to buy & burn FuFi Tokens
+- Trading as mining: `40%` of trading fees (quote symbol only) will go into a reward pool for sharing pre-alloted tokens
 - Foundation vault: `10%` of trading fees goes to foundation vault for product and community development
 
 ```
