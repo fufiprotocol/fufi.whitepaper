@@ -58,6 +58,8 @@ Once FuFi decentralized stablecoin is ready, it will be introduced as a new opti
 
 ### NFT-1155 Tokens
 
+Technically these kind of assets can be also traded in FuFi DEX and when the great needs arise for certain NFT-1155 or even other type of NFT tokens to be traded in DEX, FuFi will certainly open up the trading functions to them.
+
 ## List/Delist Tokens
 
 Main coins like BTC/ETH/USDT/USDC will be supported on the launch of FuFi spot DEX. For new tokens, they will be only listed after going through a governance process via onchain voting. It can be also possible to delist a token from FuFi spot after a governance process.
