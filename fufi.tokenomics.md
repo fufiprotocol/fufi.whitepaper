@@ -27,9 +27,11 @@ Including but not limited to the following rights/privileges:
 - enjoy token mining in trading in FuFi Spot DEX
 
 # Token Allocation
-- Early investors (IDO): `15%`, to be locked for a year and released on a quarterly basis with 10% release each quarter
+- Early investors: `15%`, to be locked for a year and released on a quarterly basis with 10% release each quarter
 - Dev Team: `15%`, to be locked for two years and released on a quarterly basis with 10% release each quarter
-- Foundation: `70%`, all to be spent in project operation and market promotion activities. It will be primarily DAO driven.
+- Foundation: `70%`, all to be spent in project operation and market promotional activities. It will be primarily DAO driven. It shall support at least following allocation plans:
+  - IDO: 1% fixed amount, price TBD
+  - Trading Incentive Pool: multiple times and amounts, determined by foundation.
 
 # Token Deflation & Mining with FuFi DEXs
 
