@@ -12,7 +12,7 @@ For embracing fast and wide adoption of FuFi tokens by community users/investors
 - Ethereum: `to-be-deployed`, amount: 5 billion
 - Binance Smart Chain (BSC): `to-be-deployed`, amount: 5 billion
 
-Then the tokens from the above two blockchains shall be fully bridged over to Armonia Meta Chain if possible via its well-established [xChain](https://xchain.pro) bridge, in order to participate in FuFi protocols that also run ontop of Armonia Meta Chain.
+Then the tokens from the above two blockchains shall be fully bridged over to Armonia Meta Chain via its well-established [xChain](https://xchain.pro) bridge, in order to participate in FuFi protocols that also run ontop of Armonia Meta Chain.
 
 ```html
 Please double confirm the smart contract addresses with https://fufi.foundation for absolute accuracy!
