@@ -21,22 +21,26 @@
   
 ## Why Order-book based Spot Trading?
 
-There are many decentralized exchanges (DEXs) protocols existing in DeFi world nowadays and majority of them fall into the category of automated market maker (AMM) which incentivizes average users to become liquidity providers. However, AMM has been regarded as a passive market making mechanism. Tranditional traders are primarily more interested in active market making, meaning placing orders with a limit or market price.
+There are many decentralized exchanges (DEXs) protocols existing in DeFi world nowadays and majority of them fall into the category of automated market maker (AMM) which incentivizes average users to become liquidity providers. However, AMM has been regarded as a passive market making mechanism while traditional traders are primarily more interested in active market making, meaning placing orders with a limit or market price.
 
-This will give traders the full control over their orders, unlike automated market making. Orderbook and matching is fully automated on-chain and orders are coming directly from FuFi end users.
+Unlike automated market making， order-book based spot trading will give traders the full control over their orders in terms of directions, prices and sizes. Morever, FuFi orderbook and matching is fully automated on-chain and orders are coming directly from FuFi end users.
 
 ## Key Characteristics
 
 ### limit and market order
-FuFi on-chain limit orderbooks allow users to submit orders with directions, prices and sizes, giving them control over their trading. Orders are recorded, matched and settled fully onchain. Users can also cancel unmatched orders from onchain.
+
+FuFi on-chain limit orderbooks allow users to submit either limit or market priced orders that are recorded, matched and settled fully onchain. Users can also cancel unmatched orders from on-chain.
 
 ### price-time-priority-basis
+
 In short, the highest bid and the lowest ask converge to represent the current market price, and users have the option to cross this bid-ask spread to immediately execute the order. Given the transparency of this system, users can see market depth in real-time.
  
 ### Realtime onchain settlement
+
 Unlike centralized exchanges (CEXs) that keep settled assets in their centralized custodian environment, FuFi Spot-trading DEX transfers the settled assets to the traders immediately upon settlement.
 
 ## Liquidity and Market Maker
+
 Liquidity is key for attracting traders/investors to trade on FuFi DEX. It can be especially hard for the initial stage to have enough traders and liquidity in the market. However, through market making activities, all top well-known exchanges will be good sources for borrowing liquidity from.
 
 In a long run, average users can also leverage a cloud-based trading bot service to do quantitive trading including meeting market making needs.
