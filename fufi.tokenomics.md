@@ -3,8 +3,8 @@
 # FuFi Token Profile
 
 - Total supply: `10 billion`
-- Symbol code: TBD
-- Precision: 18 on EVM chains and 4 on AMAX chain
+- Symbol code: `$FFT`
+- Precision: 18 on EVM chains and 4 on `$AMAX` chain
 
 # FuFi Tokens on multiple blockchains
 
@@ -36,11 +36,14 @@ Including but not limited to the following rights/privileges:
 
 # Token Deflation & Mining with FuFi DEXs
 
-For selected trading pairs in both FuFi Spot and Futures DEX, their trading fees will be subjec to following fee spending scheme:
+In order to greatly encourage providing liquidity as well as trading in FuFi's spot and perpetual markets, both makers and traders will be incentivized/rewarded in different manners:
 
-- Deflation model: `50%` of trading fees used to buy & burn FuFi Tokens
-- Trading as mining: `40%` of trading fees (quote symbol only) will go into a reward pool for sharing pre-alloted tokens
-- Foundation vault: `10%` of trading fees goes to foundation vault for product and community development
+- `Deflation`: `40%` of taker-side trading fees will go to `$FFT` burn pool so as to buyback & burn `$FFT` Tokens;
+- `Trade2Earn`: `50%` of taker-side trading fees will go to `$FFT` incentive pool to reward DEX takers provided that there are `$FFT` allocated for the current rewarding epoch. When there's no `$FFT` reward in the pool, the same amount will go to the DAO Treasure as DAO community development funds;
+- `Make2Earn`: `10%` of taker-side trading fees will go to the counterparty maker' account as reward for providing liquidity.
+  
+<div align="center"><img src="./assets/fufi_dex_fee_model.png" height="80%" width="80%"></div>
+<div align="center"><i>Figure 1.2: FuFi DEX Fee Model</i></div>
 
 ```
 P.S. Selection of trading pairs and the percentages will be subject to change through DAO governance
