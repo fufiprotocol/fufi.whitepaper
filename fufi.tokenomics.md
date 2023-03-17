@@ -40,7 +40,7 @@ In order to greatly encourage providing liquidity as well as trading in FuFi's s
 
 - `Deflation`: `40%` of taker-side trading fees will go to `$FFT` burn pool so as to buyback & burn `$FFT` Tokens;
 - `Trade2Earn`: `50%` of taker-side trading fees will go to `$FFT` incentive pool to reward DEX takers provided that there are `$FFT` allocated for the current rewarding epoch. When there's no `$FFT` reward in the pool, the same amount will go to the DAO Treasure as DAO community development funds;
-- `Make2Earn`: `10%` of taker-side trading fees will go to the counterparty maker' account as reward for providing liquidity.
+- `Make2Earn`: `10%` of taker-side trading fees will go to the counterparty maker' account as reward for providing liquidity and zero fees charged to maker at all!
   
 <div align="center"><img src="./assets/fufi_dex_fee_model.png" height="80%" width="80%"></div>
 <div align="center"><i>Figure 1.2: FuFi DEX Fee Model</i></div>
