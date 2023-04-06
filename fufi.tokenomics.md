@@ -8,11 +8,7 @@
 
 # FuFi Tokens on multiple blockchains
 
-For embracing fast and wide adoption of FuFi tokens by community users/investors worldwide, FuFi Token will be first issued on following blockchains and their corresponding deployed smart contract addresses are:
-- Ethereum: `to-be-deployed`, amount: 5 billion
-- Binance Smart Chain (BSC): `to-be-deployed`, amount: 5 billion
-
-Then the tokens from the above two blockchains shall be fully bridged over to Armonia Meta Chain via its well-established [xChain](https://xchain.pro) bridge, in order to participate in FuFi protocols that also run ontop of Armonia Meta Chain.
+`$FFT` will be solely issued as as ERC20 token on Ethereum netowrk for its pervasive ecosystem adoption. However, in order to serve its utility and governance token in FuFi protocols, `$FFT` must be bridged over from Ethereum to [Armonia Meta Chain](https://amax.network) via her well-established [xChain](https://xchain.pro) bridge.
 
 ```html
 Please double confirm the smart contract addresses with https://fufi.foundation for absolute accuracy!
@@ -24,15 +20,17 @@ Including but not limited to the following rights/privileges:
 
 - member fee tier based on holding amount
 - voting right for listing/delisting DEX trading pairs
-- enjoy token mining in trading in FuFi Spot DEX
+- enjoy token mining in trading in FuFi Spot & Perp DEX
 
 # Token Allocation
-- Early investors: `15%`, to be locked for a year and released on a quarterly basis with 10% release each quarter
-- Dev Team: `15%`, to be locked for two years and released on a quarterly basis with 10% release each quarter
-- Foundation: `70%`, all to be spent in project operation and market promotional activities. It will be primarily DAO driven. It shall support at least following allocation plans:
-  - airdrop: 0.01 % 
-  - IDO: 1% fixed amount, price TBD
-  - Trading Incentive Pool: multiple times and amounts, determined by foundation.
+- `2%`: Airdrop, for early community & consensus buildup, 8 quarterly releases post 6-month lock;
+- `5%`: Seed-round sale, for product and market development, 8 quarterly releases post 12-month lock;
+- `15%`: VC-round sale, for product, market development and brand awareness buildup, 8 quarterly releases post 12-month lock;
+- `1%`: IDO, for attracting early FuFi users and expanding global consensus, no lock required;
+- `15`: Founding team, for long-term protocol development and eventual dencentralization realization, 8 quarterly releases post 24-month lock;
+- `2%`: Consultancy, for fund-raising and ecosystem development support, 8 quarterly releases post 24-month lock;
+- `25%`: Trade-to-earn, to promote consensus among crypto users and traders, no lock required;
+- `35%`: Ecosystem deveopment treasury, DAO-driven utilization of funds for protocol, ecosystem and FuFi DAO development;
 
 # Token Deflation & Mining with FuFi DEXs
 
