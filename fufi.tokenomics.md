@@ -33,7 +33,7 @@ Including but not limited to the following rights/privileges:
 - `35%`: Ecosystem deveopment treasury, DAO-driven utilization of funds for protocol, ecosystem and FuFi DAO development;
 
 ```html
-Note: 8 quarterly release means `10%` for each of the first 7 quarters and `30%` for the final (i.e 8th) quarter.
+Note: 8 quarterly release means 10% for each of the first 7 quarters and 30% for the final (i.e 8th) quarter.
 ```
 
 # Token Deflation & Mining with FuFi DEXs
