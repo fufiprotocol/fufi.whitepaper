@@ -4,7 +4,7 @@
 
 - Total supply: `10 billion`
 - Symbol code: `$FFT`
-- Precision: 18 on EVM chains and 4 on `$Galaxy` chain
+- Precision: 18 on EVM chains and 4 on `Galaxy` chain
 
 # FuFi Tokens on multiple blockchains
 
@@ -27,7 +27,7 @@ Including but not limited to the following rights/privileges:
 - `20%`: Seed & VC-round sale, for product, market & brand development, 8 quarterly releases post 12-month lock;
 - `1%`: IDO, for attracting early FuFi users and expanding global consensus, no lock required;
 - `15`: Founding team, for long-term protocol development and eventual decentralization realization, 8 quarterly releases post 24-month lock;
-- `2%`: Consultancy, for fund-raising and ecosystem development support, 8 quarterly releases post 24-month lock;
+- `2%`: Advisory, for fund-raising and ecosystem development support, 8 quarterly releases post 24-month lock;
 - `25%`: Trade-to-earn, to promote consensus among crypto users and traders, no lock required;
 - `35%`: Ecosystem development treasury, DAO-driven utilization of funds for protocol, ecosystem and FuFi DAO development;
 
@@ -40,12 +40,12 @@ Note: 8 quarterly release means 10% for each of the first 7 quarters and 30% for
 
 # Token Deflation & Mining with FuFi DEXs
 
-In order to greatly encourage providing liquidity as well as trading in FuFi's spot and perpetual markets, both makers and traders will be incentivized/rewarded in different manners:
+In order to greatly encourage providing liquidity as well as trading in FuFi's spot and perpetual markets, both makers and traders will be rewarded in different manners:
 
-- `Make2Earn`: `10%` of taker-side trading fees will go to the counterparty maker' account as reward for providing liquidity and zero fees charged to maker at all!
-- `Deflation`: `40%` of taker-side trading fees will go to `$FFT` burn pool so as to buyback & burn `$FFT` Tokens;
-- `Stake2Earn`: `10%` of taker-side trading fees will go to `$FFT` staking pool for users to share the fees;
-- `Trade2Earn`: `40%` of taker-side trading fees will go to `$FFT` incentive pool to reward DEX takers provided that there are `$FFT` allocated for the current rewarding epoch. When there's no `$FFT` reward in the pool, the same amount will go to the DAO Treasure as DAO community development funds;
+- `Stake2Earn(S2E)`: `10%` of taker-side trading fees will go to `$FFT` staking pool for users to share the fees;
+- `Hold2Earn(H2E)`: `20%` of taker-side trading fees will go to `$FFT` burn pool so as to buyback & burn `$FFT` Tokens;
+- `Make2Earn(M2E)`: `30%` of taker-side trading fees will go to the maker's account as reward for providing liquidity and zero fees charged to maker at all!
+- `Trade2Earn(T2E)`: `40%` of taker-side trading fees will go to `$FFT` incentive pool to reward DEX takers provided that there are `$FFT` allocated for the current rewarding epoch. When there's no `$FFT` reward in the pool, the same amount will go to the DAO Treasure as DAO community development funds;
 
   
 <div align="center"><img src="./assets/fufi_dex_fee_model.png" height="80%" width="80%"></div>
