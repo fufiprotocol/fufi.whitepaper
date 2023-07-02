@@ -3,6 +3,8 @@
 # FuFi - Future Finance Protocols
 
 ## Table of Content
+- [FuFi - Future Finance Protocols](#fufi---future-finance-protocols)
+  - [Table of Content](#table-of-content)
   - [Why FuFi?](#why-fufi)
   - [Design Principles](#design-principles)
     - [Performance oriented](#performance-oriented)
@@ -10,14 +12,12 @@
     - [Secure while easy-to-use](#secure-while-easy-to-use)
     - [Affordable](#affordable)
   - [What is FuFi](#what-is-fufi)
-    - [FuFi Protocol Ecosystem](#fufi-protocol-ecosystem)
-    - [FuFi Protocols](#fufi-protocols)
+  - [FuFi Protocol Ecosystem](#fufi-protocol-ecosystem)
+  - [FuFi Protocols](#fufi-protocols)
   - [FuFi Protocol Whitepaper](#fufi-protocol-whitepaper)
-    - [FuFi Spot Trading DEX Whitepaper](https://github.com/fufiprotocol/fufi.whitepaper/blob/main/fufi.dex-spot.md)
-    - [FuFi Perpetual Futures DEX Whitepaper](https://github.com/fufiprotocol/fufi.whitepaper/blob/main/fufi.dex-perps.md)
-    - [FuFi Decentralized Stablecoin Whitepaper](https://github.com/fufiprotocol/fufi.whitepaper/blob/main/fufi.stablecoin.md)
   - [FuFi Token](#fufi-token)
   - [Vertical Optimization](#vertical-optimization)
+  - [FuFi DAO](#fufi-dao)
   - [About Us](#about-us)
   - [Contribute](#contribute)
   - [License](#license)
@@ -103,9 +103,16 @@ There will be a single governance token that rules all FuFi protocols. Individua
 
 DeFi is a multi-layer system and has to be vertically/wholistically optimized, from UX to the protocol, to the surrounding tools and services, and to the underlying blockchain network(s). FuFi team is lucky enough to be able to work with the team of underlying network for all necessary optimizations, just to make FuFi stand out among others.
 
+## FuFi DAO
+
+As we are true believer of decentralization and strive to make `FuFi` eventually decentralized as much as possible. Governance of `FuFi` protocols also needs to operate in a decentralized manner through `FuFi` DAO to be established since its inception. 
+
+In general, `FuFi` DAO members will be composed of the key contributors including its core developers and leading investors as well FFT token holders. 
+
+
 ## About Us
 
-Project FuFi is built by the FuFi Foundation. We are a group of experts in cryptocurrencies, trading, and decentralized finance. While we have built the FuFi protocols, it is strived to be permissionless that we do not hold special power anymore. It is up to you, the crypto community, to use it as you will.
+Project FuFi is built by the FuFi Foundation. We are a group of experts in cryptocurrencies, trading, and decentralized finance. While we have built the FuFi protocols and will continue to build and improve them. But it is expected to become permission-less that even the early developers do not hold special power anymore. It is up to you, the leading `FFT` holders, to engage in `FuFi` DAO activities to decide how `FuFi` operates and evolves.
 
 ## Contribute
 
