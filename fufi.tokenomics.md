@@ -53,7 +53,7 @@ It will become another source of profit when no FFT is in circulation or the sta
 
 `$FFT` is the fundamental element in FuFi’s tokenomics where seed and institutional investors benefit primarily from value increase of FFT tokens. If only through community user’s buying and selling activities, FFT token price and its market capital value won’t be very stable. Instead its price would be greatly subject to market emotions and the bear or bull cycles of the whole crypto market. In order to overcome this, FFT token will be continuously injected with the value of transaction fees. It is done as following:
   1. A Buy-back and burn pool smart contract will be created for swap of FFT and transaction fee tokens;
-  2. Upon each trade settlement, 40% of taker-contributed transaction fees will be booked into the B&B pool account;
+  2. Upon each trade settlement, `20%` of taker-contributed transaction fees will be booked into the B&B pool account;
   3. Regularly triggered messages will be submitted (open to any public users) to claim the fees accumulated from step-2 into the pool account; As a result, more and more fees will be accumulated in the pool, hence leading to a continuous increase of FFT token price: 
 **P = Fee Amount / N** (N is a constant, preset in the pool, E.g. 100 K)
   4. Users who are holding FFT tokens at a lower holding price or buying them from other markets at lower prices can then deposit FFT tokens into the B&B pool in exchange for the corresponding amount of tokens in the pool. As a result, FFT tokens will be burnt right away, which creates a deflation effect.
