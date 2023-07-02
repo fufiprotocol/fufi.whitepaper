@@ -8,7 +8,7 @@
 
 # FuFi Tokens on multiple blockchains
 
-`$FFT` will be solely issued as as ERC20 token on Ethereum network for its pervasive ecosystem adoption. However, in order to serve its utility and governance token in FuFi protocols, `$FFT` must be bridged over from Ethereum to [Galaxy Chain](https://gax.network) via a powerful cross-chain bridge: [MilkWay](https://milkway.io)
+`$FFT` will be issued as as ERC20 token on Ethereum network for its pervasive ecosystem adoption. However, in order to serve its utility and governance token in FuFi protocols, `$FFT` must be bridged over from Ethereum to [Galaxy Chain](https://gax.network) via a powerful cross-chain bridge: [MilkWay](https://milkway.io)
 
 ```html
 Please double confirm on the smart contract addresses with https://fufi.foundation for absolute accuracy!
