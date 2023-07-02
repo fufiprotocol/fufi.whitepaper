@@ -58,7 +58,7 @@ It will become another source of profit when no FFT is in circulation or the sta
 **P = Fee Amount / N** (N is a constant, preset in the pool, E.g. 100 K)
   4. Users who are holding FFT tokens at a lower holding price or buying them from other markets at lower prices can then deposit FFT tokens into the B&B pool in exchange for the corresponding amount of tokens in the pool. As a result, FFT tokens will be burnt right away, which creates a deflation effect.
 
-Initially `$FFT` may not have been issued yet, `H2E` will thus not be activated at all. 40% of the transaction fees will instead go to `FuFi DAO pool` for the early investors as well as lead `$FFT` holders to share.
+Initially `$FFT` may not have been issued yet, `H2E` will thus not be activated at all. `20%` of the transaction fees will instead go to `FuFi DAO pool` for the early investors as well as lead `$FFT` holders to share.
 
 - `Make2Earn(M2E)`: `30%` of taker-side trading fees will go to the maker's account as reward for providing liquidity and zero fees charged to maker at all!
 
