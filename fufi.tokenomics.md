@@ -2,6 +2,7 @@
 
 # FuFi Token Profile
 
+|Item|Details|
 |---|---|
 | Launch Date | August 15, 2023 |
 | Network Information | FuFi Token (FFT) is an ERC-20 token initially issued on `Ethereum` mainnet and will be bridged fully to `Galaxy` mainnet once launched.|
