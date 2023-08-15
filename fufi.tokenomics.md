@@ -1,6 +1,6 @@
 `FuFi Tokenomics`
 
-# FuFi Token Profile
+# FuFi Token Overview
 
 |Item|Details|
 |---|---|
