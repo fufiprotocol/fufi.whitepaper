@@ -9,8 +9,11 @@
 | Smart Contract Address (`Ethereum`) | [0x78A25C5460dcdf1F948a707011C44BD2C681222f](https://etherscan.io/address/0x78a25c5460dcdf1f948a707011c44bd2c681222f) |
 | Smart Contract Account (`Galaxy`) | `galaxy.token` |
 | Precision | `6` on EVM chains and `4` on `Galaxy` chain |
+| Supply Cap| `10B` FFT |
+| Inflation | Inflation will be only determined via protocol governance. Default inflation rate per annum = `0%`. |
 
-# FuFi Tokens on multiple blockchains
+
+# FuFi Tokens on multiple blockchain networks
 
 `$FFT` will be issued as as ERC20 token on Ethereum network for its pervasive ecosystem adoption. However, in order to serve its utility and governance token in FuFi protocols, `$FFT` must be bridged over from Ethereum to [Galaxy Chain](https://gax.network) via a powerful cross-chain bridge: [MilkWay](https://milkway.io)
 
