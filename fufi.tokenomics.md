@@ -11,7 +11,7 @@
 | Precision | `6` on EVM chains and `4` on `Galaxy` chain |
 | Supply cap| `10B` FFT |
 | Circulating supply | At launch, the maximum circulating supply will be `1.8B` FFT and the remaining shares will be minted respectively. |
-| Inflation | Inflation will be only determined via protocol governance. Default inflation rate per annum = `0%`. |
+| Inflation | Inflation will be solely determined via protocol governance. Default inflation rate per annum = `0%`. |
 
 
 # FuFi Tokens on multiple blockchain networks
