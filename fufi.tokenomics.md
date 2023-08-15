@@ -7,7 +7,7 @@
 | Network Information | FuFi Token (FFT) is an ERC-20 token initially issued on `Ethereum` mainnet and will be bridged fully to `Galaxy` mainnet once launched.|
 | Smart Contract Address (`Ethereum`) | [0x78A25C5460dcdf1F948a707011C44BD2C681222f](https://etherscan.io/address/0x78a25c5460dcdf1f948a707011c44bd2c681222f) |
 | Smart Contract Account (`Galaxy`) | `galaxy.token` |
-| Precision | 6 on EVM chains and 4 on `Galaxy` chain |
+| Precision | `6` on EVM chains and 4 on `Galaxy` chain |
 
 # FuFi Tokens on multiple blockchains
 
