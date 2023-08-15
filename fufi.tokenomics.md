@@ -6,10 +6,10 @@
 |---|---|
 | Launch Date | August 15, 2023 |
 | Network Information | FuFi Token (FFT) is an ERC-20 token initially issued on `Ethereum` mainnet and will be bridged fully to `Galaxy` mainnet once launched.|
-| Smart Contract Address (`Ethereum`) | [0x78A25C5460dcdf1F948a707011C44BD2C681222f](https://etherscan.io/address/0x78a25c5460dcdf1f948a707011c44bd2c681222f) |
-| Smart Contract Account (`Galaxy`) | `galaxy.token` |
+| Address on `Ethereum`| [0x78A25C5460dcdf1F948a707011C44BD2C681222f](https://etherscan.io/address/0x78a25c5460dcdf1f948a707011c44bd2c681222f) |
+| Account on `Galaxy`| `galaxy.token` |
 | Precision | `6` on EVM chains and `4` on `Galaxy` chain |
-| Supply Cap| `10B` FFT |
+| Supply cap| `10B` FFT |
 | Circulating supply | At launch, the maximum circulating supply will be `1.8B` FFT and the remaining shares will be minted respectively. |
 | Inflation | Inflation will be only determined via protocol governance. Default inflation rate per annum = `0%`. |
 
