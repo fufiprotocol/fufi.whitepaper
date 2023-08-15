@@ -10,6 +10,7 @@
 | Smart Contract Account (`Galaxy`) | `galaxy.token` |
 | Precision | `6` on EVM chains and `4` on `Galaxy` chain |
 | Supply Cap| `10B` FFT |
+| Circulating supply | At launch, the maximum circulating supply will be `1.8B` FFT and the remaining shares will be minted respectively. |
 | Inflation | Inflation will be only determined via protocol governance. Default inflation rate per annum = `0%`. |
 
 
